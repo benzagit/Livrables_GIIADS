@@ -1,0 +1,15 @@
+{
+    "MAE": 16.91027819227898,
+    "MSE": 387.21454205190275,
+    "RMSE": 19.677767710080907,
+    "R^2": -2.488961856175878,
+    "Hyperparameters": {
+        "num_dense_layers": 1,
+        "neurons_per_layer": [
+            10
+        ],
+        "activation": "relu",
+        "learning_rate": 0.001
+    },
+    "Window_Size": 30
+}
