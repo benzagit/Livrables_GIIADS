@@ -1,0 +1,18 @@
+# Dossiers de modèles (trop lourds, spécifiques à l'utilisateur)
+models/
+
+# Fichiers Python cache
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
